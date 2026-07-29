@@ -19,4 +19,4 @@ The current AI Workspace button is intentionally a UI preview. Phase 2 can conne
 
 ## GitHub Pages deployment
 
-This project is configured for static export. The included GitHub Actions workflow builds and deploys the site whenever changes are pushed to the `main` branch. In the repository settings, set **Pages → Source** to **GitHub Actions** once.
+This project is configured for static export. The included GitHub Actions workflow builds and deploys the site whenever changes are pushed to the `main` branch. It is configured for the `Grok-Based_OS` repository, so the published address is `https://musach244-ctrl.github.io/Grok-Based_OS/`. In the repository settings, set **Pages → Source** to **GitHub Actions** once.
